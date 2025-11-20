@@ -13,12 +13,12 @@
 <li>Github</li>
 </ul>
 
-<!-- <h3>Backend</h3>
+<h3>Backend</h3>
 <ul>
-<li>NodeJs</li>
-<li>Express</li>
+<li>Laravel</li>
 <li>PostrgeSQL</li>
-</ul> -->
+<li>Изучаю Express</li>
+</ul>
 
 <h1>My activity</h1>
 
