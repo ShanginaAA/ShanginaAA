@@ -1,6 +1,26 @@
 ## ✌🏻 Hello world! 
 
-### My name is Alena and I'm a Front-end Developer
+## :computer: My technology stack:
+<h3>Frontend</h3>
+<ul>
+<li>Javascript, Typescript</li>
+<li>ReactJS (React-hooks, React router)</li>
+<li>Redux, Redux-toolkit</li>
+<li>CSS (SCSS/SASS), Material UI</li>
+<li>HTML, SEMANTIC</li>
+<li>Webpack</li>
+<li>Jest</li>
+<li>Github</li>
+</ul>
+
+<!-- <h3>Backend</h3>
+<ul>
+<li>NodeJs</li>
+<li>Express</li>
+<li>PostrgeSQL</li>
+</ul> -->
+
+<h1>My activity</h1>
 
 ![alenashan](https://www.codewars.com/users/Alexshan20/badges/large)
 
