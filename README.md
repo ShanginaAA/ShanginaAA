@@ -24,7 +24,7 @@
 
 ![alenashan](https://www.codewars.com/users/Alexshan20/badges/large)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanginaaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanginaaa&layout=compact)
 
 #### 🤝🏻 You can find me here:
 
