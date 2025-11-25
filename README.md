@@ -5,8 +5,8 @@
 <ul>
 <li>Javascript, Typescript</li>
 <li>ReactJS (React-hooks, React router)</li>
-<li>Redux, Redux-toolkit</li>
-<li>CSS (SCSS/SASS), Material UI</li>
+<li>Redux, Redux-toolkit, Zod</li>
+<li>CSS (SCSS/SASS), Material UI, Tailwind CSS</li>
 <li>HTML, SEMANTIC</li>
 <li>Webpack</li>
 <li>Jest</li>
